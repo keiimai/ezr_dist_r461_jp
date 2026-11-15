@@ -1,0 +1,4 @@
+// --- R の拡張機能に、言語サーバーを入れるよう促させない（WORKSPACE.md 1 節）---
+{
+    "r.lsp.promptToInstall": false
+}
